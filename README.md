@@ -11,7 +11,7 @@ Build a model that can understand human emotions from text
 Apply NLP techniques like preprocessing and feature extraction
 Train a machine learning model for emotion classification
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 Python
 Pandas
 Scikit-learn
