@@ -13,7 +13,11 @@ Train a machine learning model for emotion classification
 
 🛠️ Technologies Used:
 Python
+
 Pandas
+
 Scikit-learn
+
 NLTK
+
 Flask 
